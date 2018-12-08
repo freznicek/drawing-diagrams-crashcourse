@@ -12,12 +12,28 @@ is an English language-idiom. It refers to the notion that a complex idea can be
 
 ## Why to draw?
 
+ * see motto for details
+ * sometimes it is more easy than a description
+ * language neutral form
+
 ## What to draw?
+
+ * 
 
 ## Who is the audience?
 
+ * 
+
 ## Picking the picture type
 
-## Drawing guidelines
+ * 
+ 
+## Other drawing guidelines
 
-
+ * Take your time, don't hurry
+ * Use colors
+ * Keep the simplest geometrical grid
+   * square / rectagular
+   * circular
+ * Don't repeat every detail more than once / twice
+ * Always first draw on paper before making an electronic one
