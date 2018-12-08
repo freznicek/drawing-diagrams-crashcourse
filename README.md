@@ -12,8 +12,9 @@ is an English language-idiom. It refers to the notion that a complex idea can be
 
 ## Why to draw?
 
- * see motto for details
+ * Motto - A picture is worth a thousand words
  * sometimes it is more easy than a description
+ * quicker explanation of a problem
  * language neutral form
 
 ## What to draw?
