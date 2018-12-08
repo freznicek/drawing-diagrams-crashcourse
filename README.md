@@ -37,3 +37,8 @@ is an English language-idiom. It refers to the notion that a complex idea can be
    * circular
  * Don't repeat every detail more than once / twice
  * Always first draw on paper before making an electronic one
+
+
+# References
+ * http://esheninger.blogspot.com/2018/08/a-picture-is-worth-thousand-words.html
+ * http://oels.byu.edu/student/idioms/proverbs/a_pic_thousand_words.html
