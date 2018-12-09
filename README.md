@@ -29,9 +29,9 @@ is an English language-idiom. It refers to the notion that a complex idea can be
 
  * 
 
-### Picking the picture type
+### Picking the diagram type
 
- * 
+ * [Various diagram types](https://commons.wikimedia.org/wiki/General_diagram_types)
  
 ### Others
 
@@ -50,3 +50,4 @@ is an English language-idiom. It refers to the notion that a complex idea can be
 ## 4. References
  * http://esheninger.blogspot.com/2018/08/a-picture-is-worth-thousand-words.html
  * http://oels.byu.edu/student/idioms/proverbs/a_pic_thousand_words.html
+ * https://commons.wikimedia.org/wiki/General_diagram_types
