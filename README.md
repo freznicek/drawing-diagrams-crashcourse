@@ -1,6 +1,8 @@
-# Drawing diagrams crashcourse
+# IT Drawing diagrams crashcourse
 
-## Motto
+Let's try to summarize basic IT drawing rules to make your drawings better.
+
+## 1. Motto
 
 > A picture is worth a thousand words
 
@@ -10,26 +12,28 @@ is an English language-idiom. It refers to the notion that a complex idea can be
 
 ![Visual form and it's perception](pictures/the-power-of-visual-content.jpg)
 
-## Why to draw?
+## 2. Drawing guidelines
 
- * Motto - A picture is worth a thousand words
- * sometimes it is more easy than a description
- * quicker explanation of a problem
- * language neutral form
+### Why to draw?
 
-## What to draw?
+ * A picture is worth a thousand words
 
- * 
+ * Quicker explanation of a problem
+ * Language neutral form
 
-## Who is the audience?
+### What to draw?
 
  * 
 
-## Picking the picture type
+### Who is the audience?
+
+ * 
+
+### Picking the picture type
 
  * 
  
-## Other drawing guidelines
+### Others
 
  * Take your time, don't hurry
  * Use colors
@@ -39,7 +43,10 @@ is an English language-idiom. It refers to the notion that a complex idea can be
  * Don't repeat every detail more than once / twice
  * Always first draw on paper before making an electronic one
 
+## 3. Get your pencils ready 😁
 
-# References
+
+
+## 4. References
  * http://esheninger.blogspot.com/2018/08/a-picture-is-worth-thousand-words.html
  * http://oels.byu.edu/student/idioms/proverbs/a_pic_thousand_words.html
