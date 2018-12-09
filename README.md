@@ -29,9 +29,10 @@ is an English language-idiom. It refers to the notion that a complex idea can be
 
  * 
 
-### Picking the diagram type
+### How to draw?
+ * the diagram type
 
- * [Various diagram types](https://commons.wikimedia.org/wiki/General_diagram_types)
+   * [Various diagram types](https://commons.wikimedia.org/wiki/General_diagram_types)
  
 ### Others
 
