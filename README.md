@@ -23,16 +23,23 @@ is an English language-idiom. It refers to the notion that a complex idea can be
 
 ### What to draw?
 
- * 
+ *
 
-### Who is the audience?
+### Who to draw for?
 
  * 
 
 ### How to draw?
- * the diagram type
-
-   * [Various diagram types](https://commons.wikimedia.org/wiki/General_diagram_types)
+ * [Understand the diagram types](https://commons.wikimedia.org/wiki/General_diagram_types)
+ * Use basic geometric objects
+   * lines
+   * rectangles
+   * circles
+   * triangles
+   * ellipse
+ * Keep in mind to use certain maximal objects in the drawing (let say 20)
+   * if you're about to draw more you should
+     * change the diagram type or do not repeat all the element
  
 ### Others
 
