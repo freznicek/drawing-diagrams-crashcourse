@@ -17,8 +17,7 @@ is an English language-idiom. It refers to the notion that a complex idea can be
 ### Why to draw?
 
  * A picture is worth a thousand words
-
- * Quicker explanation of a problem
+ * Quicker understanding of a problem (by the audience)
  * Language neutral form
 
 ### What to draw?
@@ -31,13 +30,15 @@ is an English language-idiom. It refers to the notion that a complex idea can be
    * balance the idea vs details
 
 ### How to draw?
- * [Understand the basic diagram types](https://commons.wikimedia.org/wiki/General_diagram_types)
+ * Diagram types
+   * [Understand the basic diagram types](https://commons.wikimedia.org/wiki/General_diagram_types)
+   * [Mind map](https://en.wikipedia.org/wiki/Mind_map) or more generally [concept map](https://en.wikipedia.org/wiki/Concept_map)
  * Use basic geometric objects for both drawing composition and drawing elements
    * lines
    * rectangles
    * circles
    * triangles
-   * ellipse
+   * ellipses
  * Keep in mind to use certain maximal objects in the drawing (let say 20)
    * if you're about to break the rule change the diagram type or do not repeat all the element by using `...`
  
@@ -51,11 +52,32 @@ is an English language-idiom. It refers to the notion that a complex idea can be
  * Don't repeat every detail more than once / twice
  * Always first draw on paper before making an electronic one
 
-## 3. Get your pencils ready 😁
+## 3. Drawing diagrams electronically
+Let's divide (mostly open-source) software which can help you drawing into two categories:
+
+### WYSIWYG (what you see is what you get)
+ * [M$ Visio](https://en.wikipedia.org/wiki/Microsoft_Visio)
+ * [Libre Office Draw](https://en.wikipedia.org/wiki/LibreOffice_Draw)
+ * [Dia](https://en.wikipedia.org/wiki/Dia_(software))
+ * [Inkscape](https://en.wikipedia.org/wiki/Inkscape)
+ * [Calligra Flow](https://en.wikipedia.org/wiki/Calligra_Flow)
+ * [Draw.io](https://draw.io)
+ * [LucidChart](https://en.wikipedia.org/wiki/Lucidchart)
+ * [Gliffy](https://en.wikipedia.org/wiki/Gliffy)
+
+### DOT (graph description language)
+ * [PlantUML](https://en.wikipedia.org/wiki/PlantUML)
+ * [Mermaid](https://mermaidjs.github.io)
+ * [Latex](https://en.wikipedia.org/wiki/LaTeX) with [TikZ package](https://www.overleaf.com/learn/latex/TikZ_package)
+ * [Graphviz](https://en.wikipedia.org/wiki/Graphviz)
+ * [Gravizo](http://www.gravizo.com)
 
 
+## 4. Get your pencils ready 😁
 
-## 4. References
+
+## 5. References
  * http://esheninger.blogspot.com/2018/08/a-picture-is-worth-thousand-words.html
  * http://oels.byu.edu/student/idioms/proverbs/a_pic_thousand_words.html
  * https://commons.wikimedia.org/wiki/General_diagram_types
+ * https://beebom.com/visio-alternatives-diagramming-software/
